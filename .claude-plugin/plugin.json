@@ -1,0 +1,20 @@
+{
+  "name": "conductor-protocol",
+  "version": "1.0.0",
+  "description": "Multi-agent orchestration protocol for coordinating parallel Claude instances. Prevents file conflicts, enforces priority alignment, and provides real-time visibility across all running agents.",
+  "author": {
+    "name": "Mario Giancini",
+    "email": "mario.giancini@gmail.com",
+    "url": "https://mariogiancini.com"
+  },
+  "repository": "https://github.com/MarioGiancini/conductor-protocol",
+  "keywords": [
+    "orchestration",
+    "multi-agent",
+    "coordination",
+    "parallel",
+    "conflict-prevention",
+    "priority-alignment"
+  ],
+  "license": "MIT"
+}

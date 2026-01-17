@@ -1,0 +1,16 @@
+{
+  "sprint_name": "2026-W03",
+  "focus": "P1",
+  "start_date": "2026-01-13",
+  "end_date": "2026-01-19",
+  "priorities": [
+    "Revenue-generating features",
+    "Production bug fixes",
+    "Critical infrastructure"
+  ],
+  "explicitly_deferred": [
+    "Documentation improvements",
+    "Non-critical refactoring",
+    "Nice-to-have features"
+  ]
+}
