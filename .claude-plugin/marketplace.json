@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "conductor-protocol",
-      "source": ".",
+      "source": "./",
       "description": "Multi-agent orchestration protocol for coordinating parallel Claude instances",
       "version": "1.0.0",
       "author": {
