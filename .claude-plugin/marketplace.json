@@ -1,4 +1,24 @@
 {
   "name": "conductor-protocol",
-  "source": "github:MarioGiancini/conductor-protocol"
+  "owner": {
+    "name": "Mario Giancini",
+    "email": "mario.giancini@gmail.com"
+  },
+  "metadata": {
+    "description": "Multi-agent orchestration plugins for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "conductor-protocol",
+      "source": ".",
+      "description": "Multi-agent orchestration protocol for coordinating parallel Claude instances",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mario Giancini"
+      },
+      "category": "productivity",
+      "keywords": ["orchestration", "multi-agent", "coordination", "parallel"]
+    }
+  ]
 }
